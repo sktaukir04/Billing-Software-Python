@@ -1,0 +1,15 @@
+	Welcome to Retail
+
+ Bill Number : 9208
+ Customer Name : Arbaz Shaikh
+ Phone Number : 9089786532
+======================================
+ Products		QTY		Price
+======================================
+ Rice		2		160
+ Limca		4		160
+--------------------------------------
+ Grocery Tax				16.0
+ ColdDrink Tax				8.0
+ Total Bill			Rs. 344.0
+--------------------------------------

@@ -1,0 +1,17 @@
+	Welcome to Retail
+
+ Bill Number : 9520
+ Customer Name : Taukir Shaikh
+ Phone Number : 9699912349
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		1		40
+ Tea		1		150
+ Coke		1		60
+--------------------------------------
+ Cosmetic Tax				2.0
+ Grocery Tax				15.0
+ ColdDrink Tax				3.0
+ Total Bill			Rs. 270.0
+--------------------------------------

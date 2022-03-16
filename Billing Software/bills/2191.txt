@@ -1,0 +1,15 @@
+	Welcome to Retail
+
+ Bill Number : 2191
+ Customer Name : Taukir
+ Phone Number : 9699912349
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		1		40
+ Limca		2		80
+--------------------------------------
+ Cosmetic Tax				2.0
+ ColdDrink Tax				4.0
+ Total Bill			Rs. 126.0
+--------------------------------------

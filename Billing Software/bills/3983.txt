@@ -1,0 +1,23 @@
+	Welcome to Retail
+
+ Bill Number : 3983
+ Customer Name : yash
+ Phone Number : 3862834863
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		1		40
+ Face Wash		2		120
+ Hair Spray		2		360
+ Wheat		2		480
+ Maza		1		60
+ Frooti		1		50
+ Thumbs Up		1		45
+ Limca		1		40
+ Sprite		1		60
+--------------------------------------
+ Cosmetic Tax				26.0
+ Grocery Tax				48.0
+ ColdDrink Tax				12.75
+ Total Bill			Rs. 1341.75
+--------------------------------------
